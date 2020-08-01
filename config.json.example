@@ -1,0 +1,7 @@
+{
+    "DISCORD_BOT_SECRET": "secret token (not id) of a discord bot which will send messages",
+    "DISCORD_BOT_SECRET": "",
+    "users_comment": "list of user ids (as int) as gotten on discord by right-click",
+    "users": [
+    ]
+}
