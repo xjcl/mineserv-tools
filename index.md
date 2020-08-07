@@ -21,7 +21,7 @@ Sights:
 <a href="img/sight_origin.png"><img src="img/resized/sight_origin.png"></a>
 <a href="img/sight_spawn.png"><img src="img/resized/sight_spawn.png"></a>
 <a href="img/sight_jr.png"><img src="img/resized/sight_jr.png"></a>
-<a href="img/sight_crafter_1.png"><img src="img/resized/sight_crafter_1.png"></a>
+<a href="img/sight_crafter_1.png"><img src="img/resized/sight_burning.png"></a>
 <a href="img/sight_crafter_2.png"><img src="img/resized/sight_crafter_2.png"></a>
 
 Join by asking to be put on the [whitelist](whitelist.json) and the connecting to the address **xjcl.online**.
