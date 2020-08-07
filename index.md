@@ -24,4 +24,4 @@ Sights:
 <a href="img/sight_crafter_1.png"><img src="img/resized/sight_burning.png"></a>
 <a href="img/sight_crafter_2.png"><img src="img/resized/sight_crafter_2.png"></a>
 
-Join by asking to be put on the [whitelist](whitelist.json) and the connecting to the address **xjcl.online**.
+Join by asking to be put on the [whitelist](whitelist.json) and the connecting to the address **xjcl.online** using **Minecraft 1.13.2**.
